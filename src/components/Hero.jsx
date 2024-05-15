@@ -42,6 +42,7 @@ const Hero = () => {
             className="ointer-events-none"
             autoPlay
             muted
+            loop={true}
             playsInline={true}
             key={videoSrc}
           >
